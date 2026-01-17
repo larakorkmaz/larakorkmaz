@@ -2,25 +2,28 @@
   <img src="banner_github.png" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Lara 💕</h1>
+<h1 align="center">Lara Korkmaz</h1>
 
 <p align="center">
-  Computer Engineering Student &nbsp;•&nbsp;
-  Software Developer &nbsp;•&nbsp;
-  Focused on clean and functional design
+  Computer Engineering Student • Software Developer • Skopje
 </p>
+
+<p align="center">
+  <a href="mailto:korkmazlara013@gmail.com">korkmazlara013@gmail.com</a> •
+  <a href="https://github.com/larakorkmaz">github.com/larakorkmaz</a>
+</p>
+
 ---
 
-## ✨ About Me
-- Computer Engineering student  
-- Interested in **Full-Stack**, **Game Development**, and **Python apps**
-- I value **clean UI, details, and user experience**
-- Calm aesthetics, powerful logic
+## ✨ Focus
+- Building **clean, functional** software with a soft aesthetic  
+- Exploring **Full-Stack Development**, **Game Development**, and **Python desktop apps**
+- Learning by shipping real projects
 
 ---
 
 ## 🌸 Tech Stack
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-FFD1DC?style=for-the-badge&logo=python&logoColor=111111" />
   <img src="https://img.shields.io/badge/Java-FFC0CB?style=for-the-badge&logo=openjdk&logoColor=111111" />
   <img src="https://img.shields.io/badge/C-FFE4E9?style=for-the-badge&logo=c&logoColor=111111" />
@@ -37,33 +40,34 @@
 ## 🎀 Featured Projects
 
 ### 💖 PinkByte Series (Python)
-A collection of cute, pastel-themed desktop apps built with Python.
+A small collection of pastel-themed desktop apps.
+- **Pink Clock** — alarm, timer & stopwatch  
+- **Pink Calculator** — minimal calculator app  
+- **Pink Notes** — clean note-taking app  
 
-- **Pink Clock** – pastel alarm, timer & stopwatch  
-- **Pink Calculator** – minimal aesthetic calculator  
-- **Pink Notes** – clean note-taking app  
-
-### 🌐 Other Projects
-- **Lara Tekel & Shop** – interactive business website  
-- **VitaBuddy** – cute, mobile-style health tracking app  
-- **University Projects** – Algorithms, OOP, Data Structures  
+### 🌐 Other
+- **Lara Tekel & Shop** — interactive business website  
+- **VitaBuddy** — cute, mobile-style health tracking app  
+- **University Projects** — Algorithms, OOP, Data Structures  
 
 ---
 
 ## 💗 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=larakorkmaz&show_icons=true&theme=rose_pine&hide_border=true" alt="Lara's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=larakorkmaz&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larakorkmaz&layout=compact&theme=rose_pine&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larakorkmaz&layout=compact&theme=rose_pine&hide_border=true" alt="Lara's Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=larakorkmaz&theme=rose_pine&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=larakorkmaz&theme=rose_pine&hide_border=true" alt="Lara's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=larakorkmaz&theme=rose_pine&hide_border=true" />
 </p>
-
 
 ---
 
+<p align="center">
+  Soft aesthetic • Solid engineering
+</p>
