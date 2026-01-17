@@ -1,15 +1,14 @@
 <p align="center">
-  <img src="banner.png" width="100%" />
+  <img src="banner_github.png" width="100%" />
 </p>
 
-<h1 align="center">Hi 💕 I'm Lara</h1>
+<h1 align="center">Hi, I'm Lara 💕</h1>
 
 <p align="center">
-  🎓 Computer Engineering Student &nbsp;•&nbsp;
-  💻 Soft aesthetic, strong logic &nbsp;•&nbsp;
-  🎀 Cute design, serious code
+  Computer Engineering Student &nbsp;•&nbsp;
+  Software Developer &nbsp;•&nbsp;
+  Focused on clean and functional design
 </p>
-
 ---
 
 ## ✨ About Me
