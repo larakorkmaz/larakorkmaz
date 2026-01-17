@@ -1,12 +1,14 @@
 <p align="center">
-  <img src="banner_github.png" width="100%" />
+  <img src="banner.png" width="100%" />
+</p>
+
+<h1 align="center">Lara Korkmaz</h1>
+
+<p align="center">
+  Computer Engineering Student • Software Developer • Skopje
 </p>
 
 <p align="center">
-  Computer Engineering Student • Software Developer 
-</p>
-
-<p >
   <a href="mailto:korkmazlara013@gmail.com">korkmazlara013@gmail.com</a> •
   <a href="https://github.com/larakorkmaz">github.com/larakorkmaz</a>
 </p>
@@ -51,19 +53,18 @@ A small collection of pastel-themed desktop apps.
 ---
 
 ## 💗 GitHub Stats
-
 <p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=larakorkmaz&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=github" />
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larakorkmaz&layout=compact&theme=rose_pine&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=larakorkmaz&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larakorkmaz&layout=compact&theme=rose_pine&hide_border=true" />
 </p>
 
 <p align="center">
-  <img
-       src="https://streak-stats.demolab.com?user=larakorkmaz&theme=rose_pine&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=larakorkmaz&theme=rose_pine&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=larakorkmaz&theme=rose_pine&hide_border=true" />
+</p>
 
 ---
 
