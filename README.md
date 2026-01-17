@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="BANNER_LINKINI_BURAYA_KOY" />
+  <img src=banner.png />
 </p>
 
 # Hi 💕 I'm Lara
