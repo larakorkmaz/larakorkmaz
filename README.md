@@ -51,17 +51,19 @@ A collection of cute, pastel-themed desktop apps built with Python.
 ---
 
 ## 💗 GitHub Stats
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=larakorkmaz&show_icons=true&theme=rose_pine&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larakorkmaz&layout=compact&theme=rose_pine&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=larakorkmaz&show_icons=true&theme=rose_pine&hide_border=true" alt="Lara's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=larakorkmaz&theme=rose_pine&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larakorkmaz&layout=compact&theme=rose_pine&hide_border=true" alt="Lara's Most Used Languages" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=larakorkmaz&theme=rose_pine&hide_border=true" alt="Lara's GitHub Streak" />
+</p>
+
 
 ---
 
-<p align="center">
-  💗 Soft outside. Solid inside.
-</p>
