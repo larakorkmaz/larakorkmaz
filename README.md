@@ -16,9 +16,9 @@
 ---
 
 ## ✨ Focus
-- Building **clean, functional** software with a soft aesthetic  
-- Exploring **Full-Stack Development**, **Game Development**, and **Python desktop apps**
-- Learning by shipping real projects
+- Building **clean, functional software** with a soft aesthetic  
+- Interested in **Full-Stack Development**, **Game Development**, and **Python desktop apps**
+- Learning by building real projects
 
 ---
 
@@ -45,7 +45,7 @@ A small collection of pastel-themed desktop apps.
 - **Pink Calculator** — minimal calculator app  
 - **Pink Notes** — clean note-taking app  
 
-### 🌐 Other
+### 🌐 Other Projects
 - **Lara Tekel & Shop** — interactive business website  
 - **VitaBuddy** — cute, mobile-style health tracking app  
 - **University Projects** — Algorithms, OOP, Data Structures  
@@ -54,17 +54,24 @@ A small collection of pastel-themed desktop apps.
 
 ## 💗 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=larakorkmaz&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larakorkmaz&layout=compact&theme=rose_pine&hide_border=true" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=larakorkmaz&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=github" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larakorkmaz&layout=compact&theme=rose_pine&hide_border=true" />
 </p>
+
+<p align="center">
+  <img
+       src="https://streak-stats.demolab.com?user=larakorkmaz&theme=rose_pine&hide_border=true" />
+</p>
+
+<!--
+WakaTime (VS Code'da veri birikince otomatik dolar)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=larakorkmaz&theme=rose_pine&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=larakorkmaz&theme=rose_pine&hide_border=true" />
-</p>
+-->
 
 ---
 
