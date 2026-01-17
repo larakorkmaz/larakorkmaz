@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi 👋 I'm Lara
 
-<!--
-**larakorkmaz/larakorkmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student  
+💻 Aspiring Full-Stack & Game Developer  
+🎨 Passionate about clean UI, animations, and user-friendly design  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Studying **Computer Engineering**
+- Interested in both **Web Development** and **Game Development**
+- Enjoy building **real projects**, not just assignments
+- Care about **design + functionality together**
+
+---
+
+## 🛠 Tech Stack
+**Languages**
+- Java
+- C
+- C#
+- JavaScript
+
+**Web**
+- HTML
+- CSS
+- JavaScript
+
+**Game / Design**
+- Unity
+- Blender (basic)
+
+---
+
+## 📌 Current Projects
+- **Lara Tekel & Shop** – Interactive business website  
+- **VitaBuddy** – Cute, mobile-style health tracking app  
+- **University Projects** – Algorithms, OOP, Data Structures  
+
+---
+
+## 🌱 Currently Learning
+- Advanced Algorithms
+- Game Development concepts
+- Better UI/UX practices
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn:
+
+---
+
+✨ Always learning, always building.
