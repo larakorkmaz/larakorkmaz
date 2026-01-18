@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" />
+  <img src="banner_github.png" width="100%" />
 </p>
 
 <h1 align="center">Lara Korkmaz</h1>
@@ -65,13 +65,13 @@ A small collection of pastel-themed desktop apps.
        src="https://streak-stats.demolab.com?user=larakorkmaz&theme=rose_pine&hide_border=true" />
 </p>
 
-<!--
+
 WakaTime (VS Code'da veri birikince otomatik dolar)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=larakorkmaz&theme=rose_pine&hide_border=true" />
 </p>
--->
+
 
 ---
 
