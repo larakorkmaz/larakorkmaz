@@ -2,10 +2,8 @@
   <img src="banner_github.png" width="100%" />
 </p>
 
-<h1 align="center">Lara Korkmaz</h1>
-
 <p align="center">
-  Computer Engineering Student • Software Developer • Skopje
+  Computer Engineering Student • Software Developer • Turkiye
 </p>
 
 <p align="center">
@@ -66,11 +64,6 @@ A small collection of pastel-themed desktop apps.
 </p>
 
 
-WakaTime (VS Code'da veri birikince otomatik dolar)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=larakorkmaz&theme=rose_pine&hide_border=true" />
-</p>
 
 
 ---
