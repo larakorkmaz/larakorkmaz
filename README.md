@@ -45,9 +45,9 @@ A small collection of pastel-themed desktop apps.
 
 ### 🌐 Other Projects
 - **Lara Tekel & Shop** — interactive business website  
-- **Dora Health** — cute, mobile-style health tracking app
-- **Dora Mahjong** — cute, mobile game
-- **University Projects** — Algorithms, OOP, Data Structures  
+- **Dor Health** — mobile-style health tracking app
+- **Dor Mahjong** — mobile game
+- **University Projects** — 
 
 ---
 
