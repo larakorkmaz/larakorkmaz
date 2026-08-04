@@ -13,110 +13,240 @@
 
 ---
 
-## ✨ About Me
+✨ About Me
 
-Hi, I’m Lara.  
-I’m a Computer Engineering student who enjoys building real projects while learning.
+I’m a Computer Engineering student passionate about creating games and
+software that people genuinely enjoy using.
 
-I’m currently focused on **game development**, **mobile applications**, and **creative software projects**.  
-I like creating projects that are functional, visually polished, and enjoyable to use.
+My interests include game development, mobile applications,
+computer vision, artificial intelligence, and UI/UX design.
+I enjoy turning ideas into polished, real-world projects while
+continuously learning new technologies.
 
----
+────────
 
-## 🎯 Current Focus
+🚀 Current Focus
 
-- Developing games with **Roblox Studio**, **Lua**, and **Unity**
-- Building mobile-style applications and games
-- Improving my skills in **game systems**, **UI/UX design**, and **interactive experiences**
-- Learning by turning ideas into real, playable, and usable projects
+• Unity Game Development
+• Multiplayer Systems
+• Mobile Applications
+• Computer Vision & AI
+• UI / UX Design
+• 3D Art with Blender
 
----
+────────
 
-## 🌸 Tech Stack
+💻 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD1DC?style=for-the-badge&logo=python&logoColor=111111" />
-  <img src="https://img.shields.io/badge/Java-FFC0CB?style=for-the-badge&logo=openjdk&logoColor=111111" />
-  <img src="https://img.shields.io/badge/C-FFE4E9?style=for-the-badge&logo=c&logoColor=111111" />
-  <img src="https://img.shields.io/badge/C%23-FADADD?style=for-the-badge&logo=csharp&logoColor=111111" />
-  <img src="https://img.shields.io/badge/JavaScript-FFD6E8?style=for-the-badge&logo=javascript&logoColor=111111" />
-  <img src="https://img.shields.io/badge/HTML5-FFE0EC?style=for-the-badge&logo=html5&logoColor=111111" />
-  <img src="https://img.shields.io/badge/CSS3-FFEAF2?style=for-the-badge&logo=css3&logoColor=111111" />
-  <img src="https://img.shields.io/badge/Lua-FFD1E8?style=for-the-badge&logo=lua&logoColor=111111" />
-  <img src="https://img.shields.io/badge/Unity-FFE4F0?style=for-the-badge&logo=unity&logoColor=111111" />
-  <img src="https://img.shields.io/badge/Blender-FFEAF6?style=for-the-badge&logo=blender&logoColor=111111" />
-</p>
+Languages
 
----
+• Python
+• C#
+• Java
+• C
+• JavaScript
+• TypeScript
+• Lua
+• SQL
+• HTML
+• CSS
 
-## 🎀 Featured Projects
+Technologies & Tools
 
-### 🎮 Games
+• Unity
+• Photon Fusion
+• Blender
+• React Native
+• Expo
+• Next.js
+• Supabase
+• OpenCV
+• MediaPipe
+• Git
+• GitHub
+• Figma
 
-#### 🛡️ Protect Your Base — Roblox Game
-A completed Roblox game focused on defending a base against enemies.  
-This project helped me improve my skills in Roblox Studio, Lua scripting, game mechanics, and player interaction systems.
+────────
 
-#### 🧟 Wavebreaker — Roblox Game
-A wave-based zombie defense game currently in development.  
-Players build a base, defend a core, survive zombie waves, unlock items, and progress through harder stages.
+🎮 Game Projects
 
-**Main systems include:**
-- Wave and zombie system
-- Base building mechanics
-- Turrets, blocks, and decorations
-- Inventory and shop systems
-- Chest rewards
-- Core health and upgrade systems
+🫘 Mean Beans
 
-#### 👩 Woman — Unity 3D Game
-A 3D Unity game currently in development.  
-This project focuses on improving my Unity workflow, 3D environments, gameplay systems, and visual design.
+A multiplayer social deduction game built with Unity, featuring online
+gameplay, customizable characters, and stylized clay-inspired visuals.
 
-#### 🀄 VitaMahjong — Mobile Game
-A Mahjong-style mobile game currently in development.  
-The game focuses on layered tile layouts, tile matching, reveal mechanics, and mobile-friendly gameplay.
+Features - Multiplayer networking - Character customization -
+Cosmetic system - Lobby & room management - Save system - Custom UI -
+Stylized 3D environments
 
----
+Tech: Unity • C# • Photon Fusion • Blender • Figma
 
-### 📱 Mobile App Development
+────────
 
-#### 🐾 DorBuddy — Mobile Companion App
-A mobile-style daily life and health companion app currently in early development.
+👩 Woman
 
-Planned and experimental features include:
-- Hydration tracking
-- Sleep tracking
-- Step and daily activity tracking
-- Tasks and routines
-- Cute assistant / buddy system
-- Soft, playful UI design
+A third-person Unity game focused on interactive gameplay, immersive
+environments, and gameplay programming.
 
----
+Features - Third-person gameplay - Interactive environments -
+Gameplay mechanics - Level design - UI systems
 
-### 🌐 Web Projects
+Tech: Unity • C# • Blender
 
-#### 🛒 Lara Tekel & Shop
-An interactive business website with a custom dark theme, product sections, cocktail suggestions, responsive design, and dynamic UI elements.
+────────
 
-#### ☕ DorCoffee
-A coffee-themed website project focused on clean design, warm visuals, and a smooth user experience.
+🧟 Wavebreaker
 
----
+A Roblox zombie survival game where players build defenses, upgrade
+their base, and survive increasingly difficult enemy waves.
 
-### 💖 PinkByte Series — Python Desktop Apps
-A small collection of pastel-themed desktop applications.
+Features - Wave system - Zombie AI - Base building - Shop &
+inventory - Turrets - Upgrades
 
-- **Pink Clock** — alarm, timer, and stopwatch  
-- **Pink Calculator** — minimal calculator app  
-- **Pink Notes** — clean note-taking app  
+Tech: Roblox Studio • Lua
 
----
+────────
 
-### 🎓 University Projects
-Coursework and practice projects from Computer Engineering, including programming, algorithms, mathematics, and software development assignments.
+🛡️ Protect Your Base
 
----
+A Roblox defense game centered around protecting a base from enemy
+attacks while progressing through increasingly difficult challenges.
+
+Features - Enemy AI - Combat - Progression - Defense mechanics
+
+Tech: Roblox Studio • Lua
+
+────────
+
+🀄 VitaMahjong
+
+A casual Mahjong-inspired mobile puzzle game featuring relaxing gameplay
+and clean mobile-focused design.
+
+Features - Tile matching - Puzzle mechanics - Level progression -
+Mobile UI
+
+Tech: Unity • C#
+
+────────
+
+🤖 AI & Computer Vision
+
+🤟 Sign Language Recognition
+
+A computer vision project that detects hand landmarks in real time and
+generates datasets for sign language recognition.
+
+Features - Real-time hand tracking - Landmark extraction - Dataset
+generation - CSV export - Webcam integration
+
+Tech: Python • OpenCV • MediaPipe
+
+────────
+
+📱 Mobile Applications
+
+🏆 ProofQuest
+
+A gamified productivity app that motivates users to complete real-life
+tasks through XP, achievements, and proof-based verification.
+
+Features - Daily tasks - XP & leveling - Proof verification -
+Progress tracking - User profiles
+
+Tech: React Native • Expo • TypeScript
+
+────────
+
+📚 Student Planner
+
+An academic planner designed to help students organize courses,
+assignments, schedules, and study routines.
+
+Features - Course management - Calendar - Task management - Study
+planning - Progress tracking
+
+Tech: React Native • Expo • TypeScript
+
+────────
+
+🐾 DorBuddy
+
+A digital companion app focused on building healthy habits through
+playful interactions and daily tracking.
+
+Features - Habit tracking - Hydration - Sleep - Daily routines -
+Virtual companion
+
+Tech: React Native • Expo
+
+────────
+
+🌐 Web Projects
+
+🌊 Beach & Night Club Finder
+
+A venue discovery platform featuring authentication, favorites, reviews,
+and business management tools.
+
+Tech: Next.js • TypeScript • Supabase
+
+────────
+
+🎮 DORinteractive
+
+A modern multilingual website built for showcasing games, updates,
+galleries, and community content.
+
+Tech: Next.js • React • Tailwind CSS
+
+────────
+
+☕ DorCoffee
+
+A coffee-themed website focused on modern layouts and a clean user
+experience.
+
+Tech: HTML • CSS • JavaScript
+
+────────
+
+🛒 Lara Tekel & Shop
+
+A responsive business website featuring product pages, dynamic UI
+components, and custom styling.
+
+Tech: HTML • CSS • JavaScript
+
+────────
+
+💖 Python Desktop Apps
+
+PinkByte Collection
+
+A collection of small desktop applications created while learning Python
+GUI development.
+
+• Pink Clock
+• Pink Calculator
+• Pink Notes
+
+────────
+
+🎓 University Projects
+
+Coursework and personal projects covering:
+
+• Algorithms & Data Structures
+• Python
+• Java
+• SQL
+• Probability & Statistics
+• Digital Logic
+• Mathematics
+• Software Development
+
+────────
 
 ## 💗 GitHub Stats
 
