@@ -30,26 +30,41 @@ I love combining **game development**, **computer vision**, **mobile development
 
 ---
 
-## 💻 Tech Stack
+## 🌸 Tech Stack
 
-### Languages
+<p align="center">
 
-`Python` `C#` `Java` `C` `JavaScript` `TypeScript` `Lua` `SQL` `HTML` `CSS`
+### 💻 Languages
 
-### Frameworks & Tools
+<img src="https://img.shields.io/badge/Python-FFD1DC?style=for-the-badge&logo=python&logoColor=111111" />
+<img src="https://img.shields.io/badge/C%23-FADADD?style=for-the-badge&logo=csharp&logoColor=111111" />
+<img src="https://img.shields.io/badge/Java-FFC0CB?style=for-the-badge&logo=openjdk&logoColor=111111" />
+<img src="https://img.shields.io/badge/C-FFE4E9?style=for-the-badge&logo=c&logoColor=111111" />
+<img src="https://img.shields.io/badge/JavaScript-FFD6E8?style=for-the-badge&logo=javascript&logoColor=111111" />
+<img src="https://img.shields.io/badge/TypeScript-FFE0EC?style=for-the-badge&logo=typescript&logoColor=111111" />
+<img src="https://img.shields.io/badge/Lua-FFD1E8?style=for-the-badge&logo=lua&logoColor=111111" />
+<img src="https://img.shields.io/badge/SQL-FFEAF2?style=for-the-badge&logo=sqlite&logoColor=111111" />
+<img src="https://img.shields.io/badge/HTML5-FFE0EC?style=for-the-badge&logo=html5&logoColor=111111" />
+<img src="https://img.shields.io/badge/CSS3-FFEAF2?style=for-the-badge&logo=css3&logoColor=111111" />
 
-`Unity`
-`Photon Fusion`
-`Blender`
-`React Native`
-`Expo`
-`Next.js`
-`Supabase`
-`OpenCV`
-`MediaPipe`
-`Git`
-`GitHub`
-`Figma`
+<br><br>
+
+### 🛠️ Tools & Technologies
+
+<img src="https://img.shields.io/badge/Unity-FFE4F0?style=for-the-badge&logo=unity&logoColor=111111" />
+<img src="https://img.shields.io/badge/Photon_Fusion-FFD6E8?style=for-the-badge&logo=unity&logoColor=111111" />
+<img src="https://img.shields.io/badge/Blender-FFEAF6?style=for-the-badge&logo=blender&logoColor=111111" />
+<img src="https://img.shields.io/badge/React_Native-FFD1DC?style=for-the-badge&logo=react&logoColor=111111" />
+<img src="https://img.shields.io/badge/Expo-FFE4E9?style=for-the-badge&logo=expo&logoColor=111111" />
+<img src="https://img.shields.io/badge/Next.js-FFEAF2?style=for-the-badge&logo=nextdotjs&logoColor=111111" />
+<img src="https://img.shields.io/badge/Supabase-FFD6E8?style=for-the-badge&logo=supabase&logoColor=111111" />
+<img src="https://img.shields.io/badge/OpenCV-FFE0EC?style=for-the-badge&logo=opencv&logoColor=111111" />
+<img src="https://img.shields.io/badge/MediaPipe-FFEAF6?style=for-the-badge&logo=google&logoColor=111111" />
+<img src="https://img.shields.io/badge/Figma-FFD1DC?style=for-the-badge&logo=figma&logoColor=111111" />
+<img src="https://img.shields.io/badge/Git-FFE4E9?style=for-the-badge&logo=git&logoColor=111111" />
+<img src="https://img.shields.io/badge/GitHub-FFEAF2?style=for-the-badge&logo=github&logoColor=111111" />
+
+</p>
 
 ---
 
