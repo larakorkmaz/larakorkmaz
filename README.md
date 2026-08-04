@@ -11,242 +11,279 @@
   <a href="https://github.com/larakorkmaz">github.com/larakorkmaz</a>
 </p>
 
+## ✨ About Me
+
+Hi, I'm **Lara**, a Computer Engineering student passionate about creating games and software that people genuinely enjoy using.
+
+I love combining **game development**, **computer vision**, **mobile development**, and **creative UI design** to build polished, real-world projects.
+
 ---
 
-✨ About Me
+## 🚀 Current Focus
 
-I’m a Computer Engineering student passionate about creating games and
-software that people genuinely enjoy using.
+- 🎮 Unity Game Development
+- 🌐 Multiplayer Systems
+- 📱 Mobile Applications
+- 🤖 Computer Vision & AI
+- 🎨 UI / UX Design
+- 🏡 Stylized 3D Art with Blender
 
-My interests include game development, mobile applications,
-computer vision, artificial intelligence, and UI/UX design.
-I enjoy turning ideas into polished, real-world projects while
-continuously learning new technologies.
+---
 
-────────
+## 💻 Tech Stack
 
-🚀 Current Focus
+### Languages
 
-• Unity Game Development
-• Multiplayer Systems
-• Mobile Applications
-• Computer Vision & AI
-• UI / UX Design
-• 3D Art with Blender
+`Python` `C#` `Java` `C` `JavaScript` `TypeScript` `Lua` `SQL` `HTML` `CSS`
 
-────────
+### Frameworks & Tools
 
-💻 Tech Stack
+`Unity`
+`Photon Fusion`
+`Blender`
+`React Native`
+`Expo`
+`Next.js`
+`Supabase`
+`OpenCV`
+`MediaPipe`
+`Git`
+`GitHub`
+`Figma`
 
-Languages
+---
 
-• Python
-• C#
-• Java
-• C
-• JavaScript
-• TypeScript
-• Lua
-• SQL
-• HTML
-• CSS
+# 🎮 Game Projects
 
-Technologies & Tools
+## 🫘 Mean Beans
 
-• Unity
-• Photon Fusion
-• Blender
-• React Native
-• Expo
-• Next.js
-• Supabase
-• OpenCV
-• MediaPipe
-• Git
-• GitHub
-• Figma
+A multiplayer social deduction game built with Unity, featuring stylized visuals, online gameplay, and character customization.
 
-────────
+**Highlights**
 
-🎮 Game Projects
+- Multiplayer networking
+- Character customization
+- Cosmetics system
+- Lobby management
+- Save system
+- Custom UI
+- Stylized environments
 
-🫘 Mean Beans
+**Tech**
 
-A multiplayer social deduction game built with Unity, featuring online
-gameplay, customizable characters, and stylized clay-inspired visuals.
+`Unity` `C#` `Photon Fusion` `Blender` `Figma`
 
-Features - Multiplayer networking - Character customization -
-Cosmetic system - Lobby & room management - Save system - Custom UI -
-Stylized 3D environments
+---
 
-Tech: Unity • C# • Photon Fusion • Blender • Figma
+## 👩 Woman
 
-────────
+A third-person Unity game focused on immersive gameplay and interactive environments.
 
-👩 Woman
+**Highlights**
 
-A third-person Unity game focused on interactive gameplay, immersive
-environments, and gameplay programming.
+- Third-person controller
+- Gameplay systems
+- Level design
+- Interactive world
+- UI development
 
-Features - Third-person gameplay - Interactive environments -
-Gameplay mechanics - Level design - UI systems
+**Tech**
 
-Tech: Unity • C# • Blender
+`Unity` `C#` `Blender`
 
-────────
+---
 
-🧟 Wavebreaker
+## 🧟 Wavebreaker
 
-A Roblox zombie survival game where players build defenses, upgrade
-their base, and survive increasingly difficult enemy waves.
+A Roblox zombie survival experience centered around base building and defending against enemy waves.
 
-Features - Wave system - Zombie AI - Base building - Shop &
-inventory - Turrets - Upgrades
+**Highlights**
 
-Tech: Roblox Studio • Lua
+- Zombie AI
+- Wave system
+- Base building
+- Inventory
+- Shop
+- Upgrades
 
-────────
+**Tech**
 
-🛡️ Protect Your Base
+`Roblox Studio` `Lua`
 
-A Roblox defense game centered around protecting a base from enemy
-attacks while progressing through increasingly difficult challenges.
+---
 
-Features - Enemy AI - Combat - Progression - Defense mechanics
+## 🛡️ Protect Your Base
 
-Tech: Roblox Studio • Lua
+A Roblox defense game where players protect their base against increasingly difficult enemies.
 
-────────
+**Highlights**
 
-🀄 VitaMahjong
+- Enemy AI
+- Combat
+- Progression
+- Defense mechanics
 
-A casual Mahjong-inspired mobile puzzle game featuring relaxing gameplay
-and clean mobile-focused design.
+**Tech**
 
-Features - Tile matching - Puzzle mechanics - Level progression -
-Mobile UI
+`Roblox Studio` `Lua`
 
-Tech: Unity • C#
+---
 
-────────
+## 🀄 VitaMahjong
 
-🤖 AI & Computer Vision
+A casual Mahjong-inspired puzzle game designed for mobile devices.
 
-🤟 Sign Language Recognition
+**Highlights**
 
-A computer vision project that detects hand landmarks in real time and
-generates datasets for sign language recognition.
+- Tile matching
+- Puzzle mechanics
+- Level progression
+- Mobile UI
 
-Features - Real-time hand tracking - Landmark extraction - Dataset
-generation - CSV export - Webcam integration
+**Tech**
 
-Tech: Python • OpenCV • MediaPipe
+`Unity` `C#`
 
-────────
+---
 
-📱 Mobile Applications
+# 🤖 AI & Computer Vision
 
-🏆 ProofQuest
+## 🤟 Sign Language Recognition
 
-A gamified productivity app that motivates users to complete real-life
-tasks through XP, achievements, and proof-based verification.
+A computer vision project that creates hand landmark datasets for sign language recognition.
 
-Features - Daily tasks - XP & leveling - Proof verification -
-Progress tracking - User profiles
+**Highlights**
 
-Tech: React Native • Expo • TypeScript
+- Real-time hand tracking
+- Landmark detection
+- Dataset generation
+- CSV export
 
-────────
+**Tech**
 
-📚 Student Planner
+`Python` `OpenCV` `MediaPipe`
 
-An academic planner designed to help students organize courses,
-assignments, schedules, and study routines.
+---
 
-Features - Course management - Calendar - Task management - Study
-planning - Progress tracking
+# 📱 Mobile Applications
 
-Tech: React Native • Expo • TypeScript
+## 🏆 ProofQuest
 
-────────
+A gamified productivity app where users complete real-life tasks and level up through proof-based verification.
 
-🐾 DorBuddy
+**Highlights**
 
-A digital companion app focused on building healthy habits through
-playful interactions and daily tracking.
+- Daily tasks
+- XP & leveling
+- Progress tracking
+- User profiles
 
-Features - Habit tracking - Hydration - Sleep - Daily routines -
-Virtual companion
+**Tech**
 
-Tech: React Native • Expo
+`React Native` `Expo` `TypeScript`
 
-────────
+---
 
-🌐 Web Projects
+## 📚 Student Planner
 
-🌊 Beach & Night Club Finder
+An academic planner for organizing courses, assignments, and study schedules.
 
-A venue discovery platform featuring authentication, favorites, reviews,
-and business management tools.
+**Highlights**
 
-Tech: Next.js • TypeScript • Supabase
+- Calendar
+- Tasks
+- Courses
+- Progress tracking
 
-────────
+**Tech**
 
-🎮 DORinteractive
+`React Native` `Expo` `TypeScript`
 
-A modern multilingual website built for showcasing games, updates,
-galleries, and community content.
+---
 
-Tech: Next.js • React • Tailwind CSS
+## 🐾 DorBuddy
 
-────────
+A digital companion app focused on healthy habits and daily routines.
 
-☕ DorCoffee
+**Highlights**
 
-A coffee-themed website focused on modern layouts and a clean user
-experience.
+- Habit tracking
+- Hydration
+- Sleep
+- Virtual companion
 
-Tech: HTML • CSS • JavaScript
+**Tech**
 
-────────
+`React Native` `Expo`
 
-🛒 Lara Tekel & Shop
+---
 
-A responsive business website featuring product pages, dynamic UI
-components, and custom styling.
+# 🌐 Web Projects
 
-Tech: HTML • CSS • JavaScript
+## 🌊 Beach & Night Club Finder
 
-────────
+A venue discovery platform with authentication, favorites, and reviews.
 
-💖 Python Desktop Apps
+**Tech**
 
-PinkByte Collection
+`Next.js` `TypeScript` `Supabase`
 
-A collection of small desktop applications created while learning Python
-GUI development.
+---
 
-• Pink Clock
-• Pink Calculator
-• Pink Notes
+## 🎮 DORinteractive
 
-────────
+A multilingual website built to showcase games and community content.
 
-🎓 University Projects
+**Tech**
 
-Coursework and personal projects covering:
+`Next.js` `React` `Tailwind CSS`
 
-• Algorithms & Data Structures
-• Python
-• Java
-• SQL
-• Probability & Statistics
-• Digital Logic
-• Mathematics
-• Software Development
+---
 
-────────
+## ☕ DorCoffee
+
+A coffee-themed website with a clean and modern design.
+
+**Tech**
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+## 🛒 Lara Tekel & Shop
+
+A responsive business website featuring dynamic product pages.
+
+**Tech**
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+# 💖 Python Desktop Apps
+
+### PinkByte Collection
+
+A collection of small desktop applications created while learning Python GUI development.
+
+- ⏰ Pink Clock
+- 🧮 Pink Calculator
+- 📝 Pink Notes
+
+---
+
+# 🎓 University Projects
+
+Projects and coursework covering:
+
+- Data Structures & Algorithms
+- Python
+- Java
+- SQL
+- Probability & Statistics
+- Digital Logic
+- Mathematics
+- Software Development
 
 ## 💗 GitHub Stats
 
