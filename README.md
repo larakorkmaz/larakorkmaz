@@ -77,15 +77,17 @@ A multiplayer social deduction game built with Unity, featuring stylized visuals
 
 ## 👩 Woman
 
-A third-person Unity game focused on immersive gameplay and interactive environments.
+A first-person psychological horror game built with Unity, focused on atmosphere, storytelling, and immersive exploration.
 
 **Highlights**
 
-- Third-person controller
-- Gameplay systems
-- Level design
-- Interactive world
-- UI development
+- First-person gameplay
+- Psychological horror
+- Story-driven experience
+- Environmental storytelling
+- Puzzle mechanics
+- Interactive environments
+- Atmospheric lighting & audio
 
 **Tech**
 
