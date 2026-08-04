@@ -34,7 +34,7 @@ I love combining **game development**, **computer vision**, **mobile development
 
 <p align="center">
 
-### 💻 Languages
+<b>💻 Languages</b><br><br>
 
 <img src="https://img.shields.io/badge/Python-FFD1DC?style=for-the-badge&logo=python&logoColor=111111" />
 <img src="https://img.shields.io/badge/C%23-FADADD?style=for-the-badge&logo=csharp&logoColor=111111" />
@@ -49,7 +49,7 @@ I love combining **game development**, **computer vision**, **mobile development
 
 <br><br>
 
-### 🛠️ Tools & Technologies
+<b>🛠️ Tools & Technologies</b><br><br>
 
 <img src="https://img.shields.io/badge/Unity-FFE4F0?style=for-the-badge&logo=unity&logoColor=111111" />
 <img src="https://img.shields.io/badge/Photon_Fusion-FFD6E8?style=for-the-badge&logo=unity&logoColor=111111" />
