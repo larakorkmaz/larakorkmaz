@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Computer Engineering Student • Software Developer • Game Developer
+  Computer Engineering Student • Game Developer
 </p>
 
 <p align="center">
