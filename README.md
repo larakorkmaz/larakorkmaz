@@ -2,10 +2,10 @@
   <img src="banner_github.png" width="100%" alt="Ece Lara Korkmaz GitHub banner" />
 </p>
 
-<h1 align="center">Hi, I'm Lara 👋</h1>
+<h1 align="center">Hi, I'm Lara!</h1>
 
 <p align="center">
-  <b>Computer Engineering Student • Game Developer • Creative Technologist</b>
+  <b>Computer Engineering Student • Game Developer</b>
 </p>
 
 <p align="center">
