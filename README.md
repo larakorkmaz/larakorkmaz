@@ -1,323 +1,182 @@
 <p align="center">
-  <img src="banner_github.png" width="100%" />
+  <img src="banner_github.png" width="100%" alt="Ece Lara Korkmaz GitHub banner" />
+</p>
+
+<h1 align="center">Hi, I'm Lara 👋</h1>
+
+<p align="center">
+  <b>Computer Engineering Student • Game Developer • Creative Technologist</b>
 </p>
 
 <p align="center">
-  Computer Engineering Student • Game Developer
+  I build games, interactive systems, and software with a strong focus on gameplay, multiplayer, UI/UX, and visual polish.
 </p>
 
 <p align="center">
-  <a href="mailto:larakorkmaz.dev@gmail.com">larakorkmaz.dev@gmail.com</a> •
-  <a href="https://github.com/larakorkmaz">github.com/larakorkmaz</a>
-</p>
-
-## ✨ About Me
-
-Hi, I'm **Lara**, a Computer Engineering student passionate about creating games and software that people genuinely enjoy using.
-
-I love combining **game development**, **computer vision**, **mobile development**, and **creative UI design** to build polished, real-world projects.
-
----
-
-## 🚀 Current Focus
-
-- 🎮 Unity Game Development
-- 🌐 Multiplayer Systems
-- 📱 Mobile Applications
-- 🤖 Computer Vision & AI
-- 🎨 UI / UX Design
-- 🏡 Stylized 3D Art with Blender
-
----
-
-## 🌸 Tech Stack
-
-<p align="center">
-
-<b>💻 Languages</b><br><br>
-
-<img src="https://img.shields.io/badge/Python-FFD1DC?style=for-the-badge&logo=python&logoColor=111111" />
-<img src="https://img.shields.io/badge/C%23-FADADD?style=for-the-badge&logo=csharp&logoColor=111111" />
-<img src="https://img.shields.io/badge/Java-FFC0CB?style=for-the-badge&logo=openjdk&logoColor=111111" />
-<img src="https://img.shields.io/badge/C-FFE4E9?style=for-the-badge&logo=c&logoColor=111111" />
-<img src="https://img.shields.io/badge/JavaScript-FFD6E8?style=for-the-badge&logo=javascript&logoColor=111111" />
-<img src="https://img.shields.io/badge/TypeScript-FFE0EC?style=for-the-badge&logo=typescript&logoColor=111111" />
-<img src="https://img.shields.io/badge/Lua-FFD1E8?style=for-the-badge&logo=lua&logoColor=111111" />
-<img src="https://img.shields.io/badge/SQL-FFEAF2?style=for-the-badge&logo=sqlite&logoColor=111111" />
-<img src="https://img.shields.io/badge/HTML5-FFE0EC?style=for-the-badge&logo=html5&logoColor=111111" />
-<img src="https://img.shields.io/badge/CSS3-FFEAF2?style=for-the-badge&logo=css3&logoColor=111111" />
-
-<br><br>
-
-<b>🛠️ Tools & Technologies</b><br><br>
-
-<img src="https://img.shields.io/badge/Unity-FFE4F0?style=for-the-badge&logo=unity&logoColor=111111" />
-<img src="https://img.shields.io/badge/Photon_Fusion-FFD6E8?style=for-the-badge&logo=unity&logoColor=111111" />
-<img src="https://img.shields.io/badge/Blender-FFEAF6?style=for-the-badge&logo=blender&logoColor=111111" />
-<img src="https://img.shields.io/badge/React_Native-FFD1DC?style=for-the-badge&logo=react&logoColor=111111" />
-<img src="https://img.shields.io/badge/Expo-FFE4E9?style=for-the-badge&logo=expo&logoColor=111111" />
-<img src="https://img.shields.io/badge/Next.js-FFEAF2?style=for-the-badge&logo=nextdotjs&logoColor=111111" />
-<img src="https://img.shields.io/badge/Supabase-FFD6E8?style=for-the-badge&logo=supabase&logoColor=111111" />
-<img src="https://img.shields.io/badge/OpenCV-FFE0EC?style=for-the-badge&logo=opencv&logoColor=111111" />
-<img src="https://img.shields.io/badge/MediaPipe-FFEAF6?style=for-the-badge&logo=google&logoColor=111111" />
-<img src="https://img.shields.io/badge/Figma-FFD1DC?style=for-the-badge&logo=figma&logoColor=111111" />
-<img src="https://img.shields.io/badge/Git-FFE4E9?style=for-the-badge&logo=git&logoColor=111111" />
-<img src="https://img.shields.io/badge/GitHub-FFEAF2?style=for-the-badge&logo=github&logoColor=111111" />
-
+  <a href="mailto:larakorkmaz.dev@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/ece-lara-korkmaz-a2295b37a/">LinkedIn</a> •
+  <a href="https://github.com/larakorkmaz">GitHub</a>
 </p>
 
 ---
 
-# 🎮 Game Projects
+## About Me
 
-## 🫘 Mean Beans
+I'm a **Computer Engineering student** focused on game development and interactive software.
 
-A multiplayer social deduction game built with Unity, featuring stylized visuals, online gameplay, and character customization.
+My main interests are:
 
-**Highlights**
+- 🎮 Gameplay programming and game systems
+- 🌐 Multiplayer networking
+- 🧠 AI and computer vision
+- 🎨 UI/UX and game interface design
+- 🧊 Stylized 3D art and environments
+- 📱 Mobile and web development
 
-- Multiplayer networking
+I enjoy taking projects from idea to playable prototype — including programming, UI design, 3D assets, systems design, testing, and iteration.
+
+---
+
+## Currently Building
+
+### 🫘 Mean Beans
+
+A multiplayer social deduction game built in **Unity**.
+
+I'm developing the project end-to-end, including gameplay systems, multiplayer networking, UI, character systems, voice chat, 3D assets, and game flow.
+
+**Key systems**
+- Photon Fusion multiplayer
+- Vivox voice chat
+- Lobby and ready systems
+- Roles and social deduction mechanics
+- Kill, death, ghost and spectator systems
 - Character customization
-- Cosmetics system
-- Lobby management
-- Save system
-- Custom UI
-- Stylized environments
+- Custom game UI
+- Blender-made stylized assets
 
-**Tech**
+**Tech:** `Unity` `C#` `Photon Fusion` `Vivox` `Blender` `Figma`
 
-`Unity` `C#` `Photon Fusion` `Blender` `Figma`
+> Repository is currently private while the game is in development.
 
 ---
 
-## 👩 Woman
+## Featured Projects
 
-A first-person psychological horror game built with Unity, focused on atmosphere, storytelling, and immersive exploration.
+### 🤟 SignVisionAI
 
-**Highlights**
+Computer vision project for capturing hand landmarks and building datasets for sign language recognition.
 
-- First-person gameplay
-- Psychological horror
-- Story-driven experience
-- Environmental storytelling
-- Puzzle mechanics
-- Interactive environments
-- Atmospheric lighting & audio
+**Built with:** `Python` `OpenCV` `MediaPipe`
 
-**Tech**
-
-`Unity` `C#` `Blender`
+[View repository](https://github.com/larakorkmaz/SignVisionAI)
 
 ---
 
-## 🧟 Wavebreaker
+### 🧟 WaveBreaker
 
-A Roblox zombie survival experience centered around base building and defending against enemy waves.
+A Roblox zombie survival game focused on defending a base, surviving enemy waves, managing inventory, and progressing through runs.
 
-**Highlights**
-
-- Zombie AI
-- Wave system
+**Systems include**
+- Wave-based zombie spawning
+- Multiplayer lobby and matchmaking
 - Base building
-- Inventory
-- Shop
-- Upgrades
+- Inventory and hotbar
+- Consumables and survival stats
+- Shared ammunition systems
+- Shops, chests and progression
 
-**Tech**
-
-`Roblox Studio` `Lua`
-
----
-
-## 🛡️ Protect Your Base
-
-A Roblox defense game where players protect their base against increasingly difficult enemies.
-
-**Highlights**
-
-- Enemy AI
-- Combat
-- Progression
-- Defense mechanics
-
-**Tech**
-
-`Roblox Studio` `Lua`
+**Built with:** `Roblox Studio` `Luau`
 
 ---
 
-## 🀄 VitaMahjong
+### 👩 Woman
 
-A casual Mahjong-inspired puzzle game designed for mobile devices.
+A first-person psychological horror project focused on atmosphere, storytelling, environmental interaction, and PS1-inspired visual direction.
 
-**Highlights**
-
-- Tile matching
-- Puzzle mechanics
-- Level progression
-- Mobile UI
-
-**Tech**
-
-`Unity` `C#`
+**Built with:** `Unity` `C#` `Blender`
 
 ---
 
-# 🤖 AI & Computer Vision
+### 🐍 Python Mini Projects
 
-## 🤟 Sign Language Recognition
+Small applications built while improving my Python fundamentals and software structure.
 
-A computer vision project that creates hand landmark datasets for sign language recognition.
-
-**Highlights**
-
-- Real-time hand tracking
-- Landmark detection
-- Dataset generation
-- CSV export
-
-**Tech**
-
-`Python` `OpenCV` `MediaPipe`
+- [Pink Clock](https://github.com/larakorkmaz/Pink-Clock)
+- [Pink Notepad](https://github.com/larakorkmaz/Pink_Notepad)
+- [Python Course Projects](https://github.com/larakorkmaz/PythonCourse)
 
 ---
 
-# 📱 Mobile Applications
+## Tech Stack
 
-## 🏆 ProofQuest
+### Game Development
 
-A gamified productivity app where users complete real-life tasks and level up through proof-based verification.
-
-**Highlights**
-
-- Daily tasks
-- XP & leveling
-- Progress tracking
-- User profiles
-
-**Tech**
-
-`React Native` `Expo` `TypeScript`
-
----
-
-## 📚 Student Planner
-
-An academic planner for organizing courses, assignments, and study schedules.
-
-**Highlights**
-
-- Calendar
-- Tasks
-- Courses
-- Progress tracking
-
-**Tech**
-
-`React Native` `Expo` `TypeScript`
-
----
-
-## 🐾 DorBuddy
-
-A digital companion app focused on healthy habits and daily routines.
-
-**Highlights**
-
-- Habit tracking
-- Hydration
-- Sleep
-- Virtual companion
-
-**Tech**
-
-`React Native` `Expo`
-
----
-
-# 🌐 Web Projects
-
-## 🌊 Beach & Night Club Finder
-
-A venue discovery platform with authentication, favorites, and reviews.
-
-**Tech**
-
-`Next.js` `TypeScript` `Supabase`
-
----
-
-## 🎮 DORinteractive
-
-A multilingual website built to showcase games and community content.
-
-**Tech**
-
-`Next.js` `React` `Tailwind CSS`
-
----
-
-## ☕ DorCoffee
-
-A coffee-themed website with a clean and modern design.
-
-**Tech**
-
-`HTML` `CSS` `JavaScript`
-
----
-
-## 🛒 Lara Tekel & Shop
-
-A responsive business website featuring dynamic product pages.
-
-**Tech**
-
-`HTML` `CSS` `JavaScript`
-
----
-
-# 💖 Python Desktop Apps
-
-### PinkByte Collection
-
-A collection of small desktop applications created while learning Python GUI development.
-
-- ⏰ Pink Clock
-- 🧮 Pink Calculator
-- 📝 Pink Notes
-
----
-
-# 🎓 University Projects
-
-Projects and coursework covering:
-
-- Data Structures & Algorithms
-- Python
-- Java
-- SQL
-- Probability & Statistics
-- Digital Logic
-- Mathematics
-- Software Development
-
-## 💗 GitHub Stats
-
-<p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=larakorkmaz&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=github" />
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larakorkmaz&layout=compact&theme=rose_pine&hide_border=true" />
+<p>
+  <img src="https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=roblox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Luau-2C2D72?style=flat-square" />
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" />
 </p>
 
-<p align="center">
-  <img
-       src="https://streak-stats.demolab.com?user=larakorkmaz&theme=rose_pine&hide_border=true" />
+### Programming
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111111" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=111111" />
 </p>
 
 ---
 
+## What I'm Learning
+
+- Building production-style multiplayer game systems
+- Writing cleaner and more maintainable gameplay code
+- Game testing and bug reporting
+- Advanced Unity networking
+- AI and computer vision
+- Shipping more complete, documented projects
+
+---
+
+## GitHub Stats
+
 <p align="center">
-  Soft aesthetic • Solid engineering • Building real projects
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=larakorkmaz&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larakorkmaz&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+## Let's Connect
+
+I'm interested in **game development, junior software opportunities, internships, QA/game testing, and collaborative projects**.
+
+<p align="center">
+  <a href="mailto:larakorkmaz.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ece-lara-korkmaz-a2295b37a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Building games, learning continuously, and turning ideas into playable systems.</i>
 </p>
