@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Lara!</h1>
+<h1 align="center">Hi, I'm Lara!🩷</h1>
 
 <p align="center">
   <b>Computer Engineering Student • Game Developer</b>
